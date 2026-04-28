@@ -1,7 +1,7 @@
 # Hi there 👋,I'm Vajram
-🌩️👩‍💻 Aspiring DevOps Engineer |☁️ Cloud & DevOps Enthusiast 🛠️ | Automation, Cloud-Native Technologies, and DevOps 🚀🤖
+🌩️👩‍💻 DevOps Engineer |☁️ Cloud & DevOps Enthusiast 🛠️ | Automation, Cloud-Native Technologies, and DevOps 🚀🤖
 
- ## 🌱 I’m currently learning 
+ ## 🌱 I’m currently working on
 
 ![image](https://github.com/Vajramg/Vajramg/assets/26093778/9d0862c9-27b3-42ec-b223-ffa55e17b469)
 
