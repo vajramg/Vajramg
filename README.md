@@ -6,7 +6,6 @@ Senior DevOps / SRE Engineer | Cloud Infrastructure | Kubernetes | Automation
 
 I design, automate, deploy, and troubleshoot cloud-native infrastructure and applications with a strong focus on reliability, scalability, security, and operational excellence.
 
-⸻
 
 ☁️ Cloud & Infrastructure
 
@@ -16,7 +15,6 @@ I design, automate, deploy, and troubleshoot cloud-native infrastructure and app
 * Linux Infrastructure & System Administration
 * Cloud Infrastructure Automation
 
-⸻
 
 ⚙️ DevOps & Automation
 
@@ -28,7 +26,6 @@ I design, automate, deploy, and troubleshoot cloud-native infrastructure and app
 * Package Management: Helm
 * Version Control: Git, GitHub, GitLab
 
-⸻
 
 ☸️ Containers & Kubernetes
 
@@ -46,7 +43,6 @@ I design, automate, deploy, and troubleshoot cloud-native infrastructure and app
 * Helm deployments
 * Application troubleshooting
 
-⸻
 
 📊 Observability & Reliability
 
@@ -60,7 +56,6 @@ I design, automate, deploy, and troubleshoot cloud-native infrastructure and app
 * Kubernetes troubleshooting
 * Production incident analysis
 
-⸻
 
 🐧 Linux & Scripting
 
@@ -75,7 +70,6 @@ I design, automate, deploy, and troubleshoot cloud-native infrastructure and app
 * SSH
 * Performance troubleshooting
 
-⸻
 
 🚀 Featured DevOps Projects
 
@@ -85,7 +79,6 @@ Production-style AWS infrastructure using Terraform with modular Infrastructure 
 
 Focus: AWS • Terraform • VPC • IAM • S3 • ALB • Infrastructure Automation
 
-⸻
 
 ☸️ Kubernetes Microservices Platform
 
@@ -93,7 +86,6 @@ Containerized microservices deployed on Kubernetes with production-oriented conf
 
 Focus: Kubernetes • Docker • Helm • Ingress • Microservices
 
-⸻
 
 🔄 CI/CD Automation
 
@@ -101,7 +93,6 @@ End-to-end CI/CD pipelines covering source control, build, code quality, securit
 
 Focus: Jenkins • GitHub Actions • Docker • SonarQube • Trivy • Kubernetes
 
-⸻
 
 🔁 Kubernetes GitOps with ArgoCD
 
@@ -109,7 +100,6 @@ GitOps-based Kubernetes deployment workflow using ArgoCD to continuously synchro
 
 Focus: ArgoCD • GitOps • Kubernetes • Helm • Git
 
-⸻
 
 📈 Kubernetes Observability
 
@@ -117,7 +107,6 @@ Full observability stack for Kubernetes and microservices using metrics, logs an
 
 Focus: Prometheus • Grafana • Loki • Tempo • OpenTelemetry
 
-⸻
 
 🛠️ DevOps Troubleshooting Labs
 
@@ -125,7 +114,6 @@ Hands-on troubleshooting scenarios covering Linux, AWS, Docker, Kubernetes, Terr
 
 Focus: Troubleshooting • Root Cause Analysis • Linux • Kubernetes • Cloud • DevOps
 
-⸻
 
 🏆 Key DevOps Capabilities
 
@@ -140,7 +128,6 @@ Focus: Troubleshooting • Root Cause Analysis • Linux • Kubernetes • Clou
 * Linux performance troubleshooting
 * Automation and operational efficiency
 
-⸻
 
 📚 Currently Focused On
 
@@ -153,7 +140,6 @@ Focus: Troubleshooting • Root Cause Analysis • Linux • Kubernetes • Clou
 * Platform Engineering
 * Production-grade DevOps practices
 
-⸻
 
 📫 Connect With Me
 
@@ -161,7 +147,6 @@ Focus: Troubleshooting • Root Cause Analysis • Linux • Kubernetes • Clou
 * 📧 vajramg@gmail.com
 * ✍️ Hashnode
 
-⸻
 
 💡 My DevOps Philosophy
 
@@ -171,6 +156,5 @@ Measure everything.
 Troubleshoot systematically.
 Continuously improve.
 
-⸻
 
 ⭐ Feel free to explore my repositories and DevOps projects.
