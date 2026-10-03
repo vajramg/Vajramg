@@ -157,7 +157,7 @@ Focus: Troubleshooting • Root Cause Analysis • Linux • Kubernetes • Clou
 
 📫 Connect With Me
 
-* 💼 LinkedIn
+* [💼 LinkedIn](https://www.linkedin.com/in/vajramgajengi/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bi99zqixuTWCY3D95kprWxw%3D%3D)
 * 📧 vajramg@gmail.com
 * ✍️ Hashnode
 
